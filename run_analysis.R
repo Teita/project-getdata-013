@@ -65,6 +65,6 @@ if(require("reshape2")){
 Long_data <- melt(merged_data, id = c("activity", "subject"))
 wide_mean_data <- dcast(Long_data, activity + subject ~ variable, mean)
 
-# From the data set in step 4, I create an independent tidy data set 
+# I export the tidy dataset 
 write.table(wide_mean_data, file="./tidydataset.txt", row.names=FALSE)
 
