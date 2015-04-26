@@ -1,4 +1,10 @@
-* activity  
+
+Code book - Getting and Cleaning Data Course Project on Coursera
+course ID=getdata-013
+
+VARIABLE INFORMATION: NAME, TYPE, DESCRIPTION
+
+* ACTIVITY  
 
     **Data type:** Factor with 6 levels: 'LAYING', 'STANDING', 'SITTING', 'WALKING', 'WALKING_DOWNSTAIRS', 'WALKING_UPSTAIRS'  
 
@@ -6,8 +12,9 @@
 
 
 
+
   
-* subject  
+* SUBJECT  
 
     **Data type:** Subject identifier: integer in the range [1, 30]  
 
