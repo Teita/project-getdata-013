@@ -8,7 +8,7 @@ Project on Coursera, course ID=getdata-013.
 
 # Original Dataset Information #
 
-# Name and version
+## Name and version
 Human Activity Recognition Using Smartphones Dataset, Version 1.0.
 
 ## Authors 
@@ -47,7 +47,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ## A full description on where the data for the project was obtained can be found here: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-##### The instructions to clean the data were as follow #####
+
+# The instructions to clean the data were as follow 
 Create one R script called run_analysis.R that does the following:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for 
@@ -57,7 +58,8 @@ each measurement.
 5. From the data set in step 4, creates a second, independent tidy data set 
 with the average of each variable for each activity and each subject.
 
-##### The run_analysis.R script performs the following steps to clean the data ######
+
+# The run_analysis.R script performs the following steps to clean the data 
 
 1. After setting your working directory where the UCI HAR dataset was downloaded,
 read the data into a table located in the files:
@@ -81,6 +83,6 @@ read the data into a table located in the files:
 dcast() functions
 9. Export the tidy dataset
 
-##### Notes #####
+# Notes 
 - Package used: Reshape2
 - You can find additional information about the variables in the Codebook.md file
