@@ -5,7 +5,8 @@ This file describes any transformation or work performed to obtain
 the "tidydataset.txt" file as part of the Getting and Cleaning Data Course 
 Project on Coursera, course ID=getdata-013.
 
-####### Original Dataset Information ######
+
+# Original Dataset Information #
 
 # Name and version
 Human Activity Recognition Using Smartphones Dataset, Version 1.0.
