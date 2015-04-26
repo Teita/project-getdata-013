@@ -3,7 +3,8 @@ Project assignment  from W3 of Getting and Cleaning Data.
 
 This file describes any transformation or work performed to obtain
 the "tidydataset.txt" file as part of the Getting and Cleaning Data Course 
-Project on Coursera, course ID=getdata-013.
+Project on Coursera, course ID=getdata-013. The file describes how the run_analysis.R 
+script works.
 
 
 # Original Dataset Information #
