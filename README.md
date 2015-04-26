@@ -60,7 +60,7 @@ each measurement.
 with the average of each variable for each activity and each subject.
 
 
-# The run_analysis.R script performs the following steps to clean the data 
+# The run_analysis.R script performs the following steps to transform the data: 
 
 1. After setting your working directory where the UCI HAR dataset was downloaded,
 read the data into a table located in the files:
